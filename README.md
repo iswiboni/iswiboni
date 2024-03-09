@@ -1,4 +1,4 @@
-```
+```Javascript
 const Iswiboni = {
   code: ["Javascript", "PHP", "Java", "Python", "Arduino"],
   technologies: {
